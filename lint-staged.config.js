@@ -4,6 +4,6 @@ module.exports = {
     'git add .',
     'yarn format:check',
     'yarn lint',
-    'yarn type:check'
-],
+    'yarn type:check',
+  ],
 }
