@@ -64,6 +64,7 @@
     ]
   },
   "devDependencies": {
+    "@commitlint/config-conventional": "^17.4.4",
     "@craco/craco": "^7.1.0",
     "@storybook/addon-actions": "^6.5.16",
     "@storybook/addon-essentials": "^6.5.16",
